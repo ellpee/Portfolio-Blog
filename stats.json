@@ -1,0 +1,62 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-a6bfdab80fd6a8559ad0.js",
+      "component---src-pages-index-js-a6bfdab80fd6a8559ad0.js.map"
+    ],
+    "path---": [
+      "path----58ab238517401bb80e65.js",
+      "path----58ab238517401bb80e65.js.map"
+    ],
+    "component---src-posts-post-page-js": [
+      "component---src-posts-post-page-js-5d669890ca7924851305.js",
+      "component---src-posts-post-page-js-5d669890ca7924851305.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-4c9a0e89a2bf95c56a8b.js",
+      "component---src-layouts-index-js-4c9a0e89a2bf95c56a8b.js.map"
+    ],
+    "path---index": [
+      "path---index-799bc007d12b53d0092b.js",
+      "path---index-799bc007d12b53d0092b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-09362a4c8aaf7ef613e7.js",
+      "commons-09362a4c8aaf7ef613e7.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---posts-the-importance-of-being-happy-at-your-job": [
+      "path---posts-the-importance-of-being-happy-at-your-job-8f3d00cccca191c0f9aa.js",
+      "path---posts-the-importance-of-being-happy-at-your-job-8f3d00cccca191c0f9aa.js.map"
+    ],
+    "app": [
+      "app-3f72b95cc58a8ade75ab.js",
+      "build-js-styles.css",
+      "app-3f72b95cc58a8ade75ab.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-f97db40b0b8261082e89.js",
+      "component---src-pages-about-js-f97db40b0b8261082e89.js.map"
+    ],
+    "path---posts-post": [
+      "path---posts-post-ca38e898090bda789f67.js",
+      "path---posts-post-ca38e898090bda789f67.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
